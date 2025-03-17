@@ -54,7 +54,7 @@ To view the project:
 - **Power BI Desktop**: Used to build the dashboard and model the data.
 - **Power Query**: Applied for data cleaning and transformation.
 - **DAX (Data Analysis Expressions)**: Used for creating calculated measures and KPIs.
-- **Excel Dataset**: The data is stored in an Excel sheet format, used as the source for the dashboard.
+- **Excel Dataset**: The data is stored in an Excel sheet format, and used as the source for the dashboard.
 
 ## Future Improvements
 - Adding customer demographic data for more personalized insights.
